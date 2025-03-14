@@ -25,7 +25,7 @@ This application uses Netlify Functions to handle the Anthropic API requests. Fo
 
 Or simply use the Netlify Deploy button below:
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yourusername/linkedin-resume-optimizer)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/GMC-Nickies/linkedin-llm-help)
 
 ## Local Development
 
